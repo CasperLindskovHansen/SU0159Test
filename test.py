@@ -1,1 +1,1 @@
-Print "hello, world"
+Print "hej verden"
